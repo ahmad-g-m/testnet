@@ -25,5 +25,6 @@ class HomeController extends Controller
     {
         echo("hello");
         // return view('home');
+        // test branch
     }
 }
